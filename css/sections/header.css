@@ -1,6 +1,6 @@
 .header__nav {
   display: flex;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .header__logo {
