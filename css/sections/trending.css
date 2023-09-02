@@ -132,15 +132,15 @@
   top: 12%;
 }
 
+.trending__arrow-top {
+  top: -10.5px;
+  left: 12%;
+}
+
 .trending__arrow-left img,
 .trending__arrow-top img {
   width: auto;
   height: 100%;
-}
-
-.trending__arrow-top {
-  top: -10.5px;
-  left: 12%;
 }
 
 .trending__arrow-bottom {
@@ -148,13 +148,13 @@
   right: 12%;
 }
 
+.trending__arrow-right {
+  right: -2.5px;
+  bottom: 12%;
+}
+
 .trending__arrow-bottom img,
 .trending__arrow-right img {
   width: 100%;
   height: auto;
-}
-
-.trending__arrow-right {
-  right: -2.5px;
-  bottom: 12%;
 }
